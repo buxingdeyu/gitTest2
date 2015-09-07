@@ -4,3 +4,4 @@ Creating feature2 a new branch is quick AND simple 1.
 222332
 
 bug fixed on master
+bug fixed on master 101
