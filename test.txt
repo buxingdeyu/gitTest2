@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-Creating a new branch is quick ANDff simple 1.
+Creating feature2 a new branch is quick AND simple 1.
 
 
 222332
-=======
-Creating feature2 a new branch is quick AND simple 1.
->>>>>>> feature2
 
